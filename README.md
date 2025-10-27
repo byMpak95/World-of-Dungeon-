@@ -82,8 +82,9 @@ The game features a global ranking based on collected currency.
 
 
 
-Ру:
-Карточная roguelike-игра для Telegram Mini App, где игроки исследуют подземелья, сражаются с существами, собирают карты и артефакты, используя кубики стихий.
+Ру
+
+World of Dungeon — Карточная roguelike-игра для Telegram Mini App, где игроки исследуют подземелья, сражаются с существами, собирают карты и артефакты, используя кубики стихий.
 
 Игра сочетает элементы Slay the Spire, Dicey Dungeons и классических roguelike-игр, с управлением свайпами и бесконечной генерацией уровней прямо в Telegram.
 
